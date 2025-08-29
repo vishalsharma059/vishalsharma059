@@ -7,9 +7,9 @@
 
 <br/>
 
-- 🎓 Postgraduate in Master of Computer Applications from AKGEC, Ghaziabad.
+- 💼 Currently working as a Full-Stack Intern at CMT AI.
   
-- 💼 Currently working as a Full-Stack Intern at SocialFly Networks.
+- 🎓 Postgraduate in Master of Computer Applications from AKGEC, Ghaziabad.
   
 - 🧠 Focused on writing clean, scalable code and delivering practical tech solutions.
   
